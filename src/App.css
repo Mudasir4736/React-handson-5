@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+ button{
+  background-color: blue;
+  color: antiquewhite;
+  height: 50px;
+  font-size: xx-large;
+  border-radius: 10px;
+ }
+ body{
+  height: 100vh;
+  background: rgb(18,77,99);
+background: linear-gradient(0deg, rgba(18,77,99,0.8072478991596639) 57%, rgba(214,253,45,1) 100%);
+ }
